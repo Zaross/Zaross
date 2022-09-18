@@ -11,4 +11,6 @@ My Public Repositorys
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sozialstunde&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sozialstunde&theme=tokyonight)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sozialstunde&show_icons=true&theme=radical)
