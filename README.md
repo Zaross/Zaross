@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and C++
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about Stuff from glua and HTML
-- 📫 How to reach me: Discord: Zaros.#3437
+- 📫 How to reach me: Discord
 -->
 
 My Public Repositorys 
