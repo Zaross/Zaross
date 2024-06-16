@@ -2,8 +2,6 @@
 
 - 🔭 I’m currently working on some glua and Python Projects
 - 🌱 I’m currently learning C#
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about Stuff from glua
 - 📫 How to reach me: Discord
 -->
 
