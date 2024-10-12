@@ -9,13 +9,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=15F707&center=true&width=435&lines=Hello%2C+i+am+Zaros;I+am+from+Germany+and+18+Years+old;and+i+am+a+freelance+developer" alt="Typing SVG" /></a>
 </h1>
 
-<div style="background-color:#1f2937; border-radius:10px; padding:20px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <strong style="font-size: 1.2em;">
+<h1 align="center">
+  <strong style="font-size: 1.5em; font-weight: bold;">
     “Everybody in this country should learn to program a computer because it teaches you how to think.” <br> 
-    <span style="font-size: 0.9em; font-style: italic;">– Steve Jobs</span>
+    <span style="font-size: 1em; font-style: italic; font-weight: normal;">– Steve Jobs</span>
   </strong>
-</div>
-
+</h1>
 
 ---
 
