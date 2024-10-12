@@ -10,7 +10,7 @@
 </h1>
 
 <h1 align="center">
-  <strong style="font-size: 1.5em; font-weight: bold;">
+  <strong style="font-size: 1.3em; font-weight: bold;">
     “Everybody in this country should learn to program a computer because it teaches you how to think.” <br> 
     <span style="font-size: 1em; font-style: italic; font-weight: normal;">– Steve Jobs</span>
   </strong>
