@@ -1,19 +1,16 @@
-# 👋 Hi, I'm **Zaross**
+
+<p align="right">
+  <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
+  <img src="https://komarev.com/ghpvc/?username=Zaross&color=blueviolet" alt="GitHub-Profile-Views"/>
+</p>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=20F713&center=true&vCenter=true&width=435&lines=Hello%2C+i+am+Zaros;I+am+from+Germany;and+i+am+a+freelance+developer" alt="Typing SVG" /></a>
 
 <div style="background-color:#1f2937; border-radius:10px; padding:15px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <strong>
     „Everybody in this country should learn to program a computer because it teaches you how to think.“ – Steve Jobs
   </strong>
 </div>
-
----
-
-# 🚀 Status
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
-  <img src="https://komarev.com/ghpvc/?username=Zaross&color=blueviolet" alt="GitHub-Profile-Views"/>
-</p>
 
 ---
 
