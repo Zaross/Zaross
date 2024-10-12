@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 Status
+<strong>🚀 Status</strong>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
@@ -22,7 +22,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+<strong>🧑‍💻 About Me</strong>
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -32,26 +32,39 @@
 
 ---
 
-🚀 Skills
+<strong>🚀 Skills</strong>
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,lua,docker,bash,html,css,cs,mongodb,mariadb,sqlite,discord,bots,linux&theme=dark" alt="Tech Stack" /> </p>
 
 ---
 
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zaross&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Zaross's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaross&theme=github-dark&hide_border=true" alt="Zaross's GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaross&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Zaross's GitHub Activity Graph"> </p>
+<strong>📊 GitHub Stats & Activity</strong>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Zaross&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Zaross's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaross&theme=github-dark&hide_border=true" alt="Zaross's GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaross&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Zaross's GitHub Activity Graph" />
+</p>
 ---
 
-🔥 Most Used Languages
+<strong>🔥 Most Used Languages</strong>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" /> </p>
 
 ---
 
 ### 🌐 Let's Connect
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <br />
   <strong>zaros.</strong>
 </p>
----
+
