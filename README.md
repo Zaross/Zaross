@@ -1,6 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=Zaross&color=blueviolet)
-
 # 👋 Hi, I'm **Zaross**
 
 <div style="background-color:#1f2937; border-radius:10px; padding:15px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
@@ -15,9 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
-  <img src="https://img.shields.io/badge/playing-nothing%20rn-blue?style=for-the-badge" alt="Playing Nothing Right Now"/>
-  <img src="https://img.shields.io/badge/coding-nothing%20rn-9cf?style=for-the-badge" alt="Coding Nothing Right Now"/>
-  <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-brightgreen?style=for-the-badge" alt="Listening to Nothing Right Now"/>
+  <img src="https://komarev.com/ghpvc/?username=Zaross&color=blueviolet" alt="GitHub-Profile-Views"/>
 </p>
 
 ---
@@ -53,6 +48,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaross&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Zaross's GitHub Activity Graph" />
 </p>
+
 ---
 
 <strong>🔥 Most Used Languages</strong>
@@ -60,11 +56,14 @@
 
 ---
 
-### 🌐 Let's Connect
+<strong>🌐 Let's Connect</strong>
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <br />
   <strong>zaros.</strong>
 </p>
+
+---
 
