@@ -8,7 +8,7 @@
 
 ---
 
-<strong>🚀 Status</strong>
+# 🚀 Status
 
 <p align="center">
   <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
@@ -17,7 +17,7 @@
 
 ---
 
-<strong>🧑‍💻 About Me</strong>
+# 🧑‍💻 About Me
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -27,12 +27,12 @@
 
 ---
 
-<strong>🚀 Skills</strong>
+# 🚀 Skills
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,lua,docker,bash,html,css,cs,mongodb,mariadb,sqlite,discord,bots,linux&theme=dark" alt="Tech Stack" /> </p>
 
 ---
 
-<strong>📊 GitHub Stats & Activity</strong>
+# 📊 GitHub Stats & Activity
 
 <table>
   <tr>
@@ -51,13 +51,12 @@
 
 ---
 
-<strong>🔥 Most Used Languages</strong>
+#  🔥 Most Used Languages
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" /> </p>
 
 ---
 
-<strong>🌐 Let's Connect</strong>
-
+#  🌐 Let's Connect
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
