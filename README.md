@@ -53,7 +53,7 @@
 ---
 
 #  🔥 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaros&layout=donut&bg_color=0d1117&text_color=FFFFFF" alt="Most Used Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=donut&bg_color=0d1117&text_color=FFFFFF" alt="Most Used Languages" /> </p>
 
 ---
 
