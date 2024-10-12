@@ -7,6 +7,6 @@
 
 My Public Repositorys 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaros&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&theme=tokyonight)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaros&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zaross&show_icons=true&theme=radical)
