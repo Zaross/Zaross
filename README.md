@@ -1,14 +1,19 @@
-<!-- Profile Views Counter -->
+
 ![](https://komarev.com/ghpvc/?username=Zaross&color=blueviolet)
 
 # 👋 Hi, I'm **Zaross**
+
+<div style="background-color:#1f2937; border-radius:10px; padding:15px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <strong>Currently, it is</strong> <code>echo $(date +'%H:%M %p')</code> <br> a good time to code something!
+</div>
+
 
 ---
 
 ### 🚀 Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
   <img src="https://img.shields.io/badge/playing-nothing%20rn-blue?style=for-the-badge" alt="Playing Nothing Right Now"/>
   <img src="https://img.shields.io/badge/coding-nothing%20rn-9cf?style=for-the-badge" alt="Coding Nothing Right Now"/>
   <img src="https://img.shields.io/badge/listening%20to-nothing%20rn-brightgreen?style=for-the-badge" alt="Listening to Nothing Right Now"/>
@@ -17,6 +22,9 @@
 ---
 
 ### 🧑‍💻 About Me
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=t8ua71tbp4sugv2bez6smttj5&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 
 🚀 Skills
@@ -24,8 +32,11 @@
 
 ---
 
+<details>
+  <summary>🔽 My Github Stats & Activity</summary>
 📊 GitHub Stats & Activity
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zaross&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Zaross's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaross&theme=github-dark&hide_border=true" alt="Zaross's GitHub Streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaross&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Zaross's GitHub Activity Graph"> </p>
+</details>
 
 ---
 
@@ -42,7 +53,7 @@
   <strong>Zaross#1234</strong>
 </p>
 <p align="center">
-  <a href="https://discord.com/users/your-discord-id" target="_blank"><img src="https://img.shields.io/badge/Add%20me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Add me on Discord"/></a>
+  <a href="https://discord.com/users/411763301169496084" target="_blank"><img src="https://img.shields.io/badge/Add%20me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Add me on Discord"/></a>
 </p>
 
 ---
