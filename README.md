@@ -1,16 +1,21 @@
 
 <p align="right">
-  <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen?style=for-the-badge" alt="Currently Online"/>
+  <img src="https://img.shields.io/badge/🚀%20currently-online-brightgreen" alt="Currently Online"/>
   <img src="https://komarev.com/ghpvc/?username=Zaross&color=blueviolet" alt="GitHub-Profile-Views"/>
+  
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+i+am+Zaros;I+am+from+Germany+and+18+Years+old;and+i+am+a+freelance+developer" alt="Typing SVG" /></a>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=15F707&center=true&width=435&lines=Hello%2C+i+am+Zaros;I+am+from+Germany+and+18+Years+old;and+i+am+a+freelance+developer" alt="Typing SVG" /></a>
+</h1>
 
-<div style="background-color:#1f2937; border-radius:10px; padding:15px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <strong>
-    „Everybody in this country should learn to program a computer because it teaches you how to think.“ – Steve Jobs
+<div style="background-color:#1f2937; border-radius:10px; padding:20px; text-align:center; color:white; border:1px solid #2d3748; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <strong style="font-size: 1.2em;">
+    “Everybody in this country should learn to program a computer because it teaches you how to think.” <br> 
+    <span style="font-size: 0.9em; font-style: italic;">– Steve Jobs</span>
   </strong>
 </div>
+
 
 ---
 
