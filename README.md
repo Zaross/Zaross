@@ -18,7 +18,7 @@
 
 ---
 
-# 🧑‍💻 About Me
+### 🧑‍💻 About Me
 
 <p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -28,12 +28,12 @@
 
 ---
 
-# 🚀 Skills
+### 🚀 Skills
 <p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,lua,docker,bash,html,css,cs,mongodb,mariadb,sqlite,discord,bots,linux&theme=dark" alt="Tech Stack" /> </p>
 
 ---
 
-# 📊 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <table>
   <tr>
@@ -52,13 +52,13 @@
 
 ---
 
-#  🔥 Most Used Languages
+###  🔥 Most Used Languages
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=donut&bg_color=0d1117&text_color=FFFFFF" alt="Most Used Languages" /> 
 </p>
 ---
 
-#  🌐 Let's Connect
+###  🌐 Let's Connect
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
