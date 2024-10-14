@@ -29,7 +29,7 @@
 ---
 
 ### 🚀 Skills
-<p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,lua,docker,bash,html,css,cs,mongodb,mariadb,sqlite,discord,bots,linux&theme=dark" alt="Tech Stack" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,python,lua,docker,bash,html,css,cs,nextjs,mongodb,sqlite,discord,bots,linux&theme=dark" alt="Tech Stack" /> </p>
 
 ---
 
