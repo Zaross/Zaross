@@ -20,7 +20,7 @@
 
 ### 🧑‍💻 About Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t8ua71tbp4sugv2bez6smttj5&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify currently playing" />
   </a>
