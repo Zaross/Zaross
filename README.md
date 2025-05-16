@@ -6,10 +6,6 @@
 </p>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=15F707&center=true&width=435&lines=Hello%2C+i+am+Zaros;I+am+from+Germany;and+i+am+a+freelance+dev" alt="Typing SVG" /></a>
-</h1>
-
-<h1 align="center">
   <strong style="font-size: 1.3em; font-weight: bold;">
     “Everybody in this country should learn to program a computer because it teaches you how to think.” <br> 
     <span style="font-size: 1em; font-style: italic; font-weight: normal;">– Steve Jobs</span>
