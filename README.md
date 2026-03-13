@@ -51,7 +51,6 @@
 ###  🔥 Most Used Languages
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=compact&bg_color=0d1117&color=5BCDEC" alt="Used-langs" />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Zaross" />
 </p>
 
 ---
