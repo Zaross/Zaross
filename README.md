@@ -54,6 +54,16 @@ Certified **IT Specialist** (Fachinformatiker) focused on Linux infrastructure, 
 
 ---
 
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t8ua71tbp4sugv2bez6smttj5&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true&bar_color=5BCDEC&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+---
+
 ### 🔥 Most Used Languages
 
 <p align="center">
