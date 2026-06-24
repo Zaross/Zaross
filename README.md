@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5BCDEC&height=200&section=header&text=Hi%20there,%20I'm%20Zaros&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fachinformatiker%20%E2%80%A2%20Sysadmin%20%E2%80%A2%20Dev&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:5BCDEC&height=200&section=header&text=Hi%20there,%20I'm%20Zaros&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Specialist%20%E2%80%A2%20Sysadmin%20%E2%80%A2%20Developer&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
 <p>
   <img src="https://img.shields.io/badge/%F0%9F%9A%80%20currently-online-brightgreen?style=flat-square" alt="Currently Online"/>
@@ -8,24 +8,20 @@
   <img src="https://img.shields.io/github/followers/Zaross?label=Followers&style=flat-square&color=blueviolet" alt="Followers"/>
 </p>
 
-</div>
+<br/>
 
-> ### *"Everybody in this country should learn to program a computer because it teaches you how to think."*
-> — **Steve Jobs**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everybody%20in%20this%20country%20should%20learn%20to%20program%20a%20computer%20because%20it%20teaches%20you%20how%20to%20think.&author=Steve%20Jobs" alt="quote"/>
+
+</div>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🔧 Trained **Fachinformatiker** working toward a Junior IT-Administrator role
+- 🎓 Certified **IT Specialist** (Fachinformatiker) working toward a Junior IT Administrator role
 - 🐧 At home in **Linux server administration**, Docker, Nginx, Cloudflare Tunnels & reverse proxies
 - 🛡️ Currently diving deeper into **cybersecurity** & infrastructure hardening
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=t8ua71tbp4sugv2bez6smttj5&cover_image=false&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=5BCDEC&bar_color_cover=true" alt="Spotify Now Playing" />
-  </a>
-</p>
+- 💬 Ask me about **self-hosting**, networking and homelab setups
 
 ---
 
@@ -51,10 +47,6 @@
 </table>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Zaross&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Zaros's Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaross&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Zaros's Activity Graph" />
 </p>
 
@@ -65,9 +57,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaross&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8&card_width=400" alt="Most Used Languages" />
 </p>
-
-> 💡 **Tip:** If this card shows an error or stays empty, the public instance is rate-limited.
-> Deploy your own free instance via [github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance) and swap `vercel.app` for your own domain — then it never breaks again.
 
 ---
 
