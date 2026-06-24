@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Everybody%20in%20this%20country%20should%20learn%20to%20program%20a%20computer%20because%20it%20teaches%20you%20how%20to%20think.&author=Steve%20Jobs" alt="quote"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1f29,100:0d1117&height=120&section=header&text=%22We%20cannot%20solve%20our%20problems%20with%20the%20same%0Athinking%20we%20used%20when%20we%20created%20them.%22&fontSize=18&fontColor=5BCDEC&fontAlignY=42&desc=%E2%80%94%20Albert%20Einstein&descSize=14&descAlignY=68&descColor=9ba3af" width="100%" alt="quote"/>
 
 </div>
 
@@ -18,10 +18,12 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Certified **IT Specialist** (Fachinformatiker) working toward a Junior IT Administrator role
-- 🐧 At home in **Linux server administration**, Docker, Nginx, Cloudflare Tunnels & reverse proxies
-- 🛡️ Currently diving deeper into **cybersecurity** & infrastructure hardening
-- 💬 Ask me about **self-hosting**, networking and homelab setups
+Certified **IT Specialist** (Fachinformatiker) focused on Linux infrastructure, automation and security. I build and maintain self-hosted services, harden systems against real-world threats, and care about clean, reliable engineering over quick fixes.
+
+- 🐧 **Linux server administration** — Docker, Nginx, Cloudflare Tunnels, reverse proxies & DNS
+- 🛡️ **Cybersecurity & hardening** — auditing my own infrastructure and learning offensive tooling
+- ⚙️ **Automation & scripting** — Bash, Python and infrastructure-as-code
+- 📈 Currently pursuing a **Junior IT Administrator** role in internal IT
 
 ---
 
